@@ -1,0 +1,6 @@
+C:\Users\cvass\source\repos\DoScript\Client\bin\Debug\Client.net.dll
+C:\Users\cvass\source\repos\DoScript\Client\bin\Debug\Client.net.pdb
+C:\Users\cvass\source\repos\DoScript\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\cvass\source\repos\DoScript\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\cvass\source\repos\DoScript\Client\obj\Debug\Client.net.dll
+C:\Users\cvass\source\repos\DoScript\Client\obj\Debug\Client.net.pdb
