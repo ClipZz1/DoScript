@@ -13,7 +13,7 @@ namespace Client
 
             RegisterCommand("do", new Action<int, List<object>, string>((source, args, rawCommand) =>
             {
-                string message = string.Join(" ", args.ConvertAll(x => x.ToString()));
+                string message = String.Join(" ", args);
                 TriggerEvent("chat:addMessage", new
                 {
                     // Neon type color
